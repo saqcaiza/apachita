@@ -1,0 +1,19 @@
+# Entorno Virtual de Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# TypeScript y Node.js
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Variables de entorno (Seguridad)
+.env
+
+# VS Code y Sistema
+.vscode/
+.DS_Store
+Thumbs.db
